@@ -6,7 +6,7 @@ CREDIT - The concept of this tool is from Black Hat Python by Justin Seitz.
 
 ## Features
 
-- It is very likely to original NetCat.
+It is very likely to original NetCat.
 - It can connect to a server and deliver data on both sides.
 - It can also listen for connections on a specific port.
 
