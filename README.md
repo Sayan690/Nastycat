@@ -14,6 +14,10 @@ A great feature includes execute mode.
 - When specified with listening mode, it executes specified command on local system and starts a server. When someone connects to it, delivers the output.
 - Else it will execute the command and send output to the server.
 
+Also includes an upload mode.
+- When connected to a server, sends the contents of the specified file to the server.
+- When in listening mode, receives the client output and saves it to the specified file.
+
 ## Examples
 
 ```bash
