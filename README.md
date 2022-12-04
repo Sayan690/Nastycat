@@ -2,7 +2,7 @@
 
 NastyCat is a tool completely made using python for replacing NetCat utility. It uses the pwntools framework to do so.
 
-CREDIT - The concept of this tool is from Black Hat Python.
+CREDIT - The concept of this tool is from Black Hat Python by Justin Seitz.
 
 ## Features
 
