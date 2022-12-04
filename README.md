@@ -4,11 +4,13 @@ NastyCat is a tool completely made using python for replacing NetCat utility. It
 
 ## Features
 
-It is very likely to original NetCat. It can connect to a server and deliver data on both sides. It can also listen for connections on a specific port.
+- It is very likely to original NetCat.
+- It can connect to a server and deliver data on both sides.
+- It can also listen for connections on a specific port.
 
 A great feature includes execute mode.
-When specified with listening mode, it executes specified command on local system and starts a server. When someone connects to it, delivers the output.
-Else it will execute the command and send output to the server.
+- When specified with listening mode, it executes specified command on local system and starts a server. When someone connects to it, delivers the output.
+- Else it will execute the command and send output to the server.
 
 ## Examples
 
