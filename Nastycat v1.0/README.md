@@ -49,7 +49,7 @@ echo -ne "GET / HTTP/1.1\r\nHost: www.google.com\r\n\r\n" | python3 ./nastycat.p
 
 Run the setup file and it will automatically setup everything.
 
-Note - This may require root priviledges.
+Note - This script may require root priviledges on some scenarios.
 
 ## Contribution
 Any body can voluntarily contribute to this project if he/she has a better idea.
