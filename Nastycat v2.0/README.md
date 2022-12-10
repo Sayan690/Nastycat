@@ -1,4 +1,4 @@
-# Nastycat V2.0
+# NASTYCAT V2.0
 
 Nastycat is a tool completely made using python for replacing NetCat utility. The first version uses the pwntools framework which is not natively installed with installation of python. But this 2.0 version does not use any libraries that are not preinstalled with python. This allows it to be useful in many situation where the first version would not. Moreover it offers better features than that previous one.
 
